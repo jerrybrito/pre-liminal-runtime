@@ -1,0 +1,2 @@
+# Requires: impossible-interval
+# (Not available on PyPI)
